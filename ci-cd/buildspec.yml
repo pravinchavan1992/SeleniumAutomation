@@ -4,3 +4,5 @@ phases:
     commands:
       - cd SeleniumAutomation
       - mvn clean test -Dsurefire.suiteXmlFiles="./src/test/runner/testng.xml"
+  post_build:
+    commands:
