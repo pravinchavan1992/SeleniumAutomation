@@ -1,0 +1,47 @@
+
+P
+ src/main/java/base/BasePage.java,a\3\a3820092b29fcde1a420c3b31f60024ca06bc539
+N
+src/main/java/pages/Books.java,a\8\a820f35930c453619b43b79c90e37c3867719801
+P
+ src/main/java/base/BaseTest.java,a\1\a1409c3348e128f6b8de3c422846c43706eff0f8
+V
+&src/main/java/pages/AmazonPayPage.java,8\b\8bed1b135fe05f5732b37323da83907ba2d9cd51
+Q
+!src/main/java/config/AppData.java,d\a\da904203d8ce6439c09100134f37d7c6c9f7a8cb
+U
+%src/main/java/utils/ElementUtils.java,c\e\ce97ef74698c279f549bc13e9a7157b12e786ae0
+L
+src/main/java/base/Page.java,e\9\e937a54ded35d3c542ae2212b0965d81c710e6bc
+P
+ src/main/java/config/config.yaml,8\e\8e264ae79bf7835b54e0dc88ae4125db8818a85e
+V
+&src/main/java/config/config.properties,f\3\f3688771251717fd8a4703a40ac5932449c0d52b
+^
+.src/main/java/config/ConfigurationManager.java,a\b\ab75e9c922a7217542a68066c4e78dcbebd01efd
+T
+$src/main/java/config/ConfigData.java,f\e\fe48ddff326510a70dfa795fbac784a41070b30e
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+W
+'src/main/java/report/ExtentManager.java,6\a\6aef22e1314d8baa6ec41e28b0f2baa54b0ea5b4
+T
+$src/main/java/report/TestLisner.java,2\0\20053576a75372a55a87a2cf4eadaa02a5489610
+W
+'src/main/java/utils/OptionsManager.java,8\d\8da02d475b5ddcbf1c813bc53ef64b14ca3bbfe9
+S
+#src/main/java/utils/SoftAssert.java,0\e\0e3c30774b7518bd898fb5922359c67317eefa78
+P
+ src/main/java/utils/Utility.java,1\6\16f8bb79679fd739722cf3f7e1744b01fe78196d
+R
+"src/test/java/testCases/test2.java,2\b\2babe4a7ffbc9d4f5b47c7ff2a17630526ce68a5
+R
+"src/main/java/utils/Constants.java,4\f\4f7a6c7079cf4b2ff19d6787f3f02ddcd18c4121
+R
+"src/main/java/pages/Computers.java,9\2\92a1ee1df05c4b3a3bf9a3a09cf92c910f9d7e8d
+Q
+!src/main/java/pages/HomePage.java,9\6\9655b2a35fae75d92697b79cda62632f93f33e6e
+W
+'src/main/java/pages/MobileHomePage.java,9\b\9b0f3f8446be008a607e3a35c8b0475ca25a8079
+R
+"src/test/java/testCases/test1.java,c\5\c5e6f5b8a367c766273f395863ddc696af156dd5

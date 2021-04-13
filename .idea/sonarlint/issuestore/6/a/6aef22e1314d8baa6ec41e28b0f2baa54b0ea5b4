@@ -1,0 +1,34 @@
+
+J
+java:S3740
+"/Provide the parametrized type for this generic.(üÂöÅùÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(Û³û
+J
+java:S3740"/Provide the parametrized type for this generic.(ëœ¾øÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¾±ÕŸüÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÈÔÖüÿÿÿÿ
+8
+java:S1118"Hide this public constructor.(ÈÔÖüÿÿÿÿ
+6
+java:S5164"Call "remove()" on "child".(ëœ¾øÿÿÿÿ
+7
+java:S5164
+"Call "remove()" on "extent".(üÂöÅùÿÿÿÿ
+9
+java:S5164"Call "remove()" on "subchild".(¾±ÕŸüÿÿÿÿ
+0
+java:S5164"Call "remove()" on "test".(Û³û
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ŞÈøŸ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ñ°şŠ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Šá¶Ë
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ä×¿çùÿÿÿÿ
+h	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôäıÂÿÿÿÿÿ
+G
+java:S1068",Remove this unused "subchild" private field.(¾±ÕŸüÿÿÿÿ

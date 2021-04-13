@@ -1,0 +1,18 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘À»³
+B
+java:S1612&",Replace this lambda with a method reference.(¿º¹€
+S
+java:S1117)"8Rename "wait" which hides the field declared at line 13.(˜Áµªýÿÿÿÿ
+f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž¶›ô
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À«œÿþÿÿÿÿ
+P
+java:S11176":Rename "driver" which hides the field declared at line 12.(ëÌ‰ö
+;
+java:S1181;"%Catch Exception instead of Throwable.(½Ðð•
+G
+java:S1612'",Replace this lambda with a method reference.(óØÙïûÿÿÿÿ
+N
+java:S11179"8Rename "wait" which hides the field declared at line 13.(€™¼ 
+z
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "element".(ÄÃšÑùÿÿÿÿ

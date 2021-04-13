@@ -1,0 +1,19 @@
+
+G
+java:S1612d",Replace this lambda with a method reference.(œ´Áğùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÉÑŠüÿÿÿÿ
+L
+java:S1128"1Remove this unused import 'report.ExtentManager'.(‡²íüÿÿÿÿ
+@
+java:S2387"*"driver" is the name of a field in "Page".(æ¹•‹
+c
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‰ı…ğ
+k	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õğüıûÿÿÿÿ
+L
+java:S1854"7Remove this useless assignment to local variable "env".(éÀó-
+k	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¹£öşÿÿÿÿ
+Z
+java:S2147#"DCombine this catch with the one at line 33, which has the same body.(ï­£Ä
+=
+java:S1481"(Remove this unused "env" local variable.(éÀó-
+k	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©üÚËùÿÿÿÿ

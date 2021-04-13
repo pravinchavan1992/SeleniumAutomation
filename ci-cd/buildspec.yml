@@ -1,0 +1,6 @@
+version: 0.2
+phases:
+  build:
+    commands:
+      - cd SeleniumAutomation
+      - mvn clean test -Dsurefire.suiteXmlFiles="./src/test/runner/testng.xml"
