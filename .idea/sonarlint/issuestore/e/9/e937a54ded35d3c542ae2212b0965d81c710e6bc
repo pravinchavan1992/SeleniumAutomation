@@ -1,7 +1,7 @@
 
 T
 java:S5993"9Change the visibility of this constructor to "protected".(¿úô‚øÿÿÿÿ
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÂÅÈ
-k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¬ÓÜûÿÿÿÿ
-f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öîœæ
 c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ÿ«ÚÀÿÿÿÿÿ
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öîœæ
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¬ÓÜûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÂÅÈ
