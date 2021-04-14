@@ -45,3 +45,5 @@ W
 'src/main/java/pages/MobileHomePage.java,9\b\9b0f3f8446be008a607e3a35c8b0475ca25a8079
 R
 "src/test/java/testCases/test1.java,c\5\c5e6f5b8a367c766273f395863ddc696af156dd5
+C
+ci-cd/buildspec.yml,0\1\016bd12dc446cc16877b1db256f55502b4d304f8
