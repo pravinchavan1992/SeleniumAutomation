@@ -14,6 +14,7 @@ public class OptionsManager {
 
     public ChromeOptions getChromeOptions(){
         chromeOptions = new ChromeOptions();
+        chromeOptions.addArguments("headless");
         chromeOptions.setAcceptInsecureCerts(true);
         chromeOptions.addArguments("start-maximized");
         chromeOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
@@ -23,6 +24,7 @@ public class OptionsManager {
 
     public FirefoxOptions getFirefoxOptions(){
         firefoxOptions = new FirefoxOptions();
+        firefoxOptions.addArguments("headless");
         firefoxOptions.setAcceptInsecureCerts(true);
         firefoxOptions.addArguments("start-maximized");
         firefoxOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
@@ -32,6 +34,7 @@ public class OptionsManager {
 
     public InternetExplorerOptions getInternetExplorerOptions(){
         internetExplorerOptions = new InternetExplorerOptions();
+        firefoxOptions.addArguments("headless");
         internetExplorerOptions.setAcceptInsecureCerts(false);
         internetExplorerOptions.ignoreZoomSettings();
         internetExplorerOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
